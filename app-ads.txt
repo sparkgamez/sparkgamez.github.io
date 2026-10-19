@@ -1,5 +1,5 @@
 # Publisher domain
-ownerdomain=sparkgamez.xyz
+ownerdomain=sparkgamez.github.io
 
 # Google AdMob (Mediator)
 google.com, pub-3259027541544504, DIRECT, f08c47fec0942fa0
